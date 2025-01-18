@@ -1,3 +1,6 @@
+![Uploading image.png…]()
+
+
 snort, suricata, NetBios, zeekIDS, Log Parser, Elastic Search 사용가능툴
 시그니처기반, 임계치기반 분석 
 비업무시간 동안의 내부 시스템 통신 트래픽 수 조사
