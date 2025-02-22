@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/2361cd39-1a88-493f-bcb5-9004fa2ae6e2)
-(24.01.04 ~ 25.04)
+(24.01.04 ~ 25.04.)
 
 snort, suricata, NetBios, zeekIDS, Log Parser, Elastic Search 사용가능툴
 시그니처기반, 임계치기반 분석 
