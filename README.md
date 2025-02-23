@@ -1,3 +1,4 @@
+[정보보안기사 문제 풀이 사이트 cbt](https://www.kinz.kr/exam/419923)
 ![image](https://github.com/user-attachments/assets/2361cd39-1a88-493f-bcb5-9004fa2ae6e2)
 (24.01.04 ~ 25.04)
 
