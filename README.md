@@ -10,6 +10,8 @@
 snort, suricata, NetBios, zeekIDS, Log Parser, Elastic Search 사용가능툴
 시그니처기반, 임계치기반 분석 
 비업무시간 동안의 내부 시스템 통신 트래픽 수 조사
+
+23년도 기출 정리.
 ```
 1. 윈도우 시스템의 사용자 계정 및 패스워드를 암호화하여 보관하고 있는 SAM(Security Account Manager)에 대한 설명으로 틀린 것은?
 ① HKEY_LOCAL_MACHINE\SAM에 저장된 키는 일반계정도 확인할 수 있다.
